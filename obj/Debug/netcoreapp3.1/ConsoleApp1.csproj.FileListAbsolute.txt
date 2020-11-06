@@ -1,0 +1,13 @@
+D:\Учеба\колледж\04\ТРПО2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Учеба\колледж\04\ТРПО2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Учеба\колледж\04\ТРПО2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Учеба\колледж\04\ТРПО2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Учеба\колледж\04\ТРПО2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Учеба\колледж\04\ТРПО2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Учеба\колледж\04\ТРПО2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Учеба\колледж\04\ТРПО2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Учеба\колледж\04\ТРПО2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Учеба\колледж\04\ТРПО2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Учеба\колледж\04\ТРПО2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Учеба\колледж\04\ТРПО2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Учеба\колледж\04\ТРПО2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
